@@ -123,4 +123,4 @@ The model is intentionally simple — it shows that **today's win rate and trade
 
 ---
 
-*Submitted by: [Your Name] · February 2026*
+*Submitted by: [Aaryav Bansal] · February 2026*
